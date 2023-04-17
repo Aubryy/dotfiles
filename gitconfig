@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aubry.louvet@gmail.com
+	name = Aubry Louvet
